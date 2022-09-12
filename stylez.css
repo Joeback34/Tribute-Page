@@ -1,0 +1,21 @@
+body {
+	background-color: seagreen;
+	}
+
+
+p{
+	display: table ;
+	margin: 0 auto;
+	border:  solid black 3px;
+	background-color: green;
+	padding:  30;
+	font-family: "Times New Roman", Times, serif; 
+
+}
+
+.myimg {
+width: 300px;
+height:300px;
+object-fit: cover;
+border-radius:50%;
+}

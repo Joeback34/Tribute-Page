@@ -1,0 +1,40 @@
+body {
+	background-color: seagreen;
+	}
+
+.myimg {
+width: 300px;
+height:300px;
+object-fit: cover;
+border-radius:50%;
+}
+
+#summary{
+	border: solid black  3px; 
+	background-color: green;
+
+	
+}
+
+ul{
+	display: table ;
+	margin: 0 auto;
+	border:  solid black 3px;
+	background-color: green;
+	height: 50%;
+}
+
+li{
+	text-align: left;
+  	
+	background-color: green;
+}
+
+p{
+	display: table ;
+	margin: 0 auto;
+	border:  solid black 3px;
+	background-color: green;
+	padding:  30;
+
+}
